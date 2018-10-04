@@ -6,5 +6,5 @@ int main()
     cin>>b1>>b2>>h;
     Lice=((b1+b2)*h)/2
     cout<<"Lice= "<<Lice;
-    return 0
+    return 0;
 }
