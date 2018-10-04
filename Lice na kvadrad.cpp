@@ -6,5 +6,5 @@ int a;
 cin>>a;
 int lice=a*a
 cout<<lice;
-return 0
+return 0;
 }
